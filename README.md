@@ -7,6 +7,13 @@
 [![Live App](https://img.shields.io/badge/Streamlit-Live_App-red?logo=streamlit)](https://YOUR-STREAMLIT-APP.streamlit.app)
 
 ---
+## 📌 Project Overview
+
+This end-to-end Machine Learning project predicts annual tech salaries based on a professional's profile — job title, experience, education, skills, and more. Trained on **250,000 real job records**, the best model (XGBoost) achieves an **R² of 0.979** and an average prediction error of only **~$4,300**.
+
+The project includes a production-ready **Streamlit web app** where anyone can input their profile and receive an instant salary estimate.
+
+---
 
 ---
 
