@@ -1,0 +1,49 @@
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ─── Virtual environments ─────────────────────────────────────────────────────
+venv/
+env/
+.venv/
+.env/
+
+# ─── Environment variables ────────────────────────────────────────────────────
+.env
+*.env
+
+# ─── Jupyter ──────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ─── IDE / Editor ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ─── Models (large binary files – store with Git LFS or exclude) ──────────────
+# Uncomment the line below if you do NOT want to commit model files:
+# models/*.pkl
+
+# ─── Data (raw dataset – may be large) ───────────────────────────────────────
+# Uncomment if you want to exclude the raw data:
+# data/*.csv
+
+# ─── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ─── OS ───────────────────────────────────────────────────────────────────────
+.DS_Store
+desktop.ini
